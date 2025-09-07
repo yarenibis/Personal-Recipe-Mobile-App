@@ -18,12 +18,33 @@ Kullanıcılar **şifre veya Google hesabı** ile giriş yapabilir, tariflerini 
 
 ## 🗂️ Sayfalar
 
-| Sayfa | Açıklama |
-|-------|----------|
-| Giriş | Email/şifre veya Google ile giriş |
-| Ana Ekran | Kullanıcının mevcut tarifleri listelenir |
-| Tarif Detay | Seçilen tarifin detayları |
-| Tarif Ekle / Düzenle | Yeni tarif ekleme veya mevcut tarifleri güncelleme |
+<h2>📸 Uygulama Ekran Görüntüleri</h2>
+
+<table border="1" cellpadding="10" cellspacing="0">
+  <thead>
+    <tr>
+      <th>Sayfa</th>
+      <th>Görsel</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Giriş</td>
+      <td>
+        <img src="login.png" alt="Giriş" width="150">
+        <img src="home.png" alt="Ana Ekran" width="150">
+      </td>
+    </tr>
+    <tr>
+      <td>Tarif Detay</td>
+      <td>
+        <img src="detail.png" alt="Tarif Detay" width="150">
+        <img src="add_edit.png" alt="Tarif Ekle/Düzenle" width="150">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 
 ---
 
@@ -54,3 +75,4 @@ git clone <repo-url>
 cd <proje-klasörü>
 flutter pub get
 flutter run
+

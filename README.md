@@ -31,15 +31,15 @@ Kullanıcılar **şifre veya Google hesabı** ile giriş yapabilir, tariflerini 
     <tr>
       <td>Giriş</td>
       <td>
-        <img src="login.png" alt="Giriş" width="150">
-        <img src="home.png" alt="Ana Ekran" width="150">
+        <img src="login.jpeg" alt="Giriş" width="150">
+        <img src="home.jpeg" alt="Ana Ekran" width="150">
       </td>
     </tr>
     <tr>
       <td>Tarif Detay</td>
       <td>
-        <img src="detail.png" alt="Tarif Detay" width="150">
-        <img src="add_edit.png" alt="Tarif Ekle/Düzenle" width="150">
+        <img src="detail.jpeg" alt="Tarif Detay" width="150">
+        <img src="add_edit.jpeg" alt="Tarif Ekle/Düzenle" width="150">
       </td>
     </tr>
   </tbody>
@@ -48,17 +48,7 @@ Kullanıcılar **şifre veya Google hesabı** ile giriş yapabilir, tariflerini 
 
 ---
 
-## 📸 Uygulama Ekran Görüntüleri (Markdown, yan yana)
 
-**Giriş ve Ana Ekran:**  
-<img src="images/login.png" alt="Giriş" width="200"> <img src="images/home.png" alt="Ana Ekran" width="200">  
-
-**Tarif Detay ve Tarif Ekle/Düzenle:**  
-<img src="images/detail.png" alt="Tarif Detay" width="200"> <img src="images/add_edit.png" alt="Tarif Ekle/Düzenle" width="200">  
-
-> Görselleri `images/` klasörüne koymayı unutma.  
-
----
 
 ## 🔌 Firebase Entegrasyonu
 
@@ -75,4 +65,5 @@ git clone <repo-url>
 cd <proje-klasörü>
 flutter pub get
 flutter run
+
 
